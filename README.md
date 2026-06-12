@@ -1,5 +1,5 @@
 # Study-basic-tech-of-Github
-1. Branch let one repository have a different version at the same time
+1. Branch let one repository have a different version at the same time.
 2. Pull request is done.
 3. Forking the repository means "cloning" a repository online, so I use the word " clone is something wrong.
 
